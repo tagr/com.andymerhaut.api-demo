@@ -1,0 +1,13 @@
+X:\Dev\com.andymerhaut.api-demo\com.andymerhaut.api-demo\bin\Debug\com.andymerhaut.api-demo.exe.config
+X:\Dev\com.andymerhaut.api-demo\com.andymerhaut.api-demo\bin\Debug\com.andymerhaut.api-demo.exe
+X:\Dev\com.andymerhaut.api-demo\com.andymerhaut.api-demo\bin\Debug\com.andymerhaut.api-demo.pdb
+X:\Dev\com.andymerhaut.api-demo\com.andymerhaut.api-demo\bin\Debug\EntityFramework.dll
+X:\Dev\com.andymerhaut.api-demo\com.andymerhaut.api-demo\bin\Debug\EntityFramework.SqlServer.dll
+X:\Dev\com.andymerhaut.api-demo\com.andymerhaut.api-demo\bin\Debug\Newtonsoft.Json.dll
+X:\Dev\com.andymerhaut.api-demo\com.andymerhaut.api-demo\bin\Debug\EntityFramework.xml
+X:\Dev\com.andymerhaut.api-demo\com.andymerhaut.api-demo\bin\Debug\EntityFramework.SqlServer.xml
+X:\Dev\com.andymerhaut.api-demo\com.andymerhaut.api-demo\bin\Debug\Newtonsoft.Json.xml
+X:\Dev\com.andymerhaut.api-demo\com.andymerhaut.api-demo\obj\Debug\com.andymerhaut.api-demo.csprojResolveAssemblyReference.cache
+X:\Dev\com.andymerhaut.api-demo\com.andymerhaut.api-demo\obj\Debug\com.andymerhaut.api-demo.csproj.CoreCompileInputs.cache
+X:\Dev\com.andymerhaut.api-demo\com.andymerhaut.api-demo\obj\Debug\com.andymerhaut.api-demo.exe
+X:\Dev\com.andymerhaut.api-demo\com.andymerhaut.api-demo\obj\Debug\com.andymerhaut.api-demo.pdb
